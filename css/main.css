@@ -1,5 +1,15 @@
 body
 {
+align-content: center; 
 background-color: blue;
 }
-h1{color: orange;}
+h1
+{
+color: orange;
+}
+img
+{
+-webkit-box-shadow: 10px 15px 31px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 15px 31px -2px rgba(0,0,0,0.75);
+box-shadow: 10px 15px 31px -2px rgba(0,0,0,0.75);
+}
