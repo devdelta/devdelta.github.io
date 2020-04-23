@@ -7,7 +7,7 @@ h1
 {
 color: orange;
 }
-img
+img, *
 {
 -webkit-box-shadow: 10px 15px 31px -2px rgba(0,0,0,0.75);
 -moz-box-shadow: 10px 15px 31px -2px rgba(0,0,0,0.75);
