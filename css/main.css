@@ -13,3 +13,11 @@ img
 -moz-box-shadow: 10px 15px 31px -2px rgba(0,0,0,0.75);
 box-shadow: 10px 15px 31px -2px rgba(0,0,0,0.75);
 }
+a
+{
+color: red;
+}
+a:hover
+{
+color: white;
+}
